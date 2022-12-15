@@ -13,3 +13,22 @@
  *= require_tree .
  *= require_self
  */
+
+ .img-fluid {
+  height: 8vh;
+  width: 100%;
+  background-size: cover;
+ }
+
+ a {
+  text-decoration: none;
+  color: lightslategray;
+ }
+
+ .new-article h1 {
+  color: teal;
+ }
+
+ .container {
+  font-family: 'Courier New', Courier, monospace;
+ }
